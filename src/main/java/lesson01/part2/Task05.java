@@ -17,6 +17,8 @@ public class Task05 {
      */
 
     public static void main(String[] args) {
+        Cat a = new Cat();
+        Cat b = new Cat();
         //напишите тут ваш код
     }
 
